@@ -8,7 +8,7 @@ document.querySelector('#app').innerHTML = `
     <a href="#" target="_blank">
       <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
     </a>
-    <a href="https://www.ryanair.com/se/sv/" target="_blank">
+    <a href="https://momondo.se" target="_blank">
       <img src="${viteLogo}" class="logo" alt="Vite logo" />
     </a>
     <h1>Grattis på 60 års dagen mamma!</h1>
