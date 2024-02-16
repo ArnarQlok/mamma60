@@ -29,4 +29,8 @@ const readBirthday = document.querySelector('.read-the-docs')
 readBirthday.style.display = "none"
 
 
-birthdayButton.addEventListener('click', ()=> readBirthday.style.display = "block")
+birthdayButton.addEventListener('click', ()=> {
+  readBirthday.style.display = "block"
+  birthdayButton.style.display = "none"
+});
+
