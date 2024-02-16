@@ -13,9 +13,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-body {
+/* body {
   background: #465418;
-}
+} */
 /* 39411fb8 */
 a {
   font-weight: 500;
@@ -64,7 +64,7 @@ h1 {
 }
 
 .read-the-docs {
-  color: #888;
+  color: #465418;
 }
 
 button {
@@ -75,6 +75,7 @@ button {
   font-weight: 500;
   font-family: inherit;
   background-color: #1a1a1a;
+  color: #465418;
   cursor: pointer;
   transition: border-color 0.25s;
 }
