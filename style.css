@@ -16,7 +16,7 @@
 body {
   background: #465418;
 }
-
+/* 39411fb8 */
 a {
   font-weight: 500;
   color: #646cff;
@@ -47,7 +47,7 @@ h1 {
 }
 
 .logo {
-  height: 20em;
+  width: 80%;
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
